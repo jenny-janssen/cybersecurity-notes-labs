@@ -53,4 +53,4 @@ See detailed notes in `/SecurityPlus-Notes`.
 
 ---
 
-> ✍️ Maintained by [Your Name] — Cybersecurity learner, future analyst.
+> ✍️ Maintained by [Jenny Janssen] — Cybersecurity learner, future analyst.
